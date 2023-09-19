@@ -56,4 +56,4 @@ If you are saving your progress on [freeCodeCamp.org](https://www.freecodecamp.o
 ![Testing](testing.jpg)
 
 ### Submission
-![Submission](submission.jpg)
+![Submission](Submission.jpg)
