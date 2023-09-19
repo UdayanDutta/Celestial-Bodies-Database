@@ -1,5 +1,5 @@
 # Celestial Bodies Database
-#### Open [file `solution.txt`](solution.txt) To follow my terminal command. Solutions divided into several steps :
+#### To follow my terminal command. Solutions divided into several steps :
     1. Create database and connect to it.
     2. Create tables as required conditions.
     3. Fill the tables as required data conditions.
